@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4c9a18d6929471746966781fb8ee6ae8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnCloudSmoke: {fileID: 1448983673216430, guid: b211270175023f64091e5ec273025f2e,
+      type: 2}
+  - spawnExplosion: {fileID: 1298208058919446, guid: dd421cb4c3623d9498637d7518f9eda7,
+      type: 2}
+  - rb: {instanceID: 0}
+  - tank: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
